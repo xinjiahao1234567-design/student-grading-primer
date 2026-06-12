@@ -1,2 +1,5 @@
 no-commit/
 node_modules/
+.idea/
+__pycache__/
+backend/__pycache__/
